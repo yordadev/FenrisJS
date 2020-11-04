@@ -1,0 +1,15 @@
+{
+  "name": "FenrisJS",
+  "version": "1.0.0",
+  "description": "Link gatherer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yorda",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.4.1",
+    "url-parse": "^1.4.7"
+  }
+}
