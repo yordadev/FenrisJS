@@ -1,6 +1,6 @@
 # FenrisS
 
-FenrisJs is a simple NodeJS application that scrappers links from a given input and outputs the results nicely into one of two files, external or internal json file for further analysis.
+FenrisJs is a simple NodeJS application that scrapes any links from a given domain and outputs the results nicely into one of two files, external or internal file for further analysis.
 
 ## Usage
 
