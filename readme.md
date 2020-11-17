@@ -5,8 +5,13 @@ FenrisJs is a simple NodeJS application that scrapes any links from a given doma
 ## Usage
 
 ```sh
-node fenris.js
+node fenris.js https://example.com
 ```
+
+## Notes
+
+If you want to expand this project into a larger crawlere or spider, [This is where to look.](https://github.com/yordadev/FenrisJS/blob/38e352704c31033b2e59deb438392cdfd6e51dcd/fenris.js#L64)
+
 
 ## Contributing
 
